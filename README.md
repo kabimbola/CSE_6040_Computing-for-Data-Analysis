@@ -1,13 +1,11 @@
-# CSE_6040_Computing-for-Data-Analysis
+# <Course Title> CSE_6040_Computing-for-Data-Analysis
 
-# 1. Course Repository for Georgia Tech's Computing for Data Analysis
-
-# 2. Time Period
+# 1. Time Period
 Class Start : 2020/Aug/18 
 
 Class Ends: 2020/Dec/15
 
-# 3. Scores Acheived 
+# 2. Scores Acheived 
 
 Notebook 1: 29/29
 
