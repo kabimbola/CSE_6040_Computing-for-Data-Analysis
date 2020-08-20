@@ -12,5 +12,5 @@ Notebook 1: 29/29
 Notebook 2: 
 
 
-All the answers are done alone without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
+All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
 
