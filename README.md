@@ -9,7 +9,9 @@ Class Ends: 2020/Dec/15
 
 Notebook 1: 29/29
 
-Notebook 2: 
+Notebook 2: 23/23
+
+Notebook 4: 20/20
 
 
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
