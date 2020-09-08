@@ -13,6 +13,8 @@ Notebook 2: 23/23
 
 Notebook 4: 20/20
 
+Notebook 5: 13/13
+
 
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
 
