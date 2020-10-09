@@ -15,7 +15,7 @@ Notebook 3: 20/20
 
 Notebook 4: 13/13
 
-Notebook 5: 
+Notebook 5: 13/13
 
 Notebook 6: Ungraded
 
@@ -24,6 +24,8 @@ Notebook 7: 13/13
 Notebook 8: Ungraded
 
 Notebook 9: 20/22
+
+Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and disornizged.Need to be improved!)
 
 
 
