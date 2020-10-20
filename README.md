@@ -25,7 +25,7 @@ Notebook 8: Ungraded
 
 Notebook 9: 20/22
 
-Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and rather inefficient.Spend time cleaning the codes for yourself!)
+Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and rather inefficient.Spend some time cleaning the codes for yourself!)
 
 
 
