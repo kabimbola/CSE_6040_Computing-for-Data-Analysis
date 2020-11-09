@@ -37,7 +37,7 @@ Notebook 13: 16/16
 
 Notebook 14: 
 
-Midterm 2: 15/15 
+Midterm 2: 18/18
 
 
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
