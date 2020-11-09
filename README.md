@@ -31,8 +31,13 @@ Notebook 11:18/18
 
 Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and rather inefficient.Spend some time cleaning the codes for yourself!)
 
+Notebok 12: 21/21
 
+Notebook 13: 16/16
 
+Notebook 14: 
+
+Midterm 2: 15/15 
 
 
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
