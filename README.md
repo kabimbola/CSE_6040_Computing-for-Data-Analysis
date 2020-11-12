@@ -35,7 +35,7 @@ Notebok 12: 21/21
 
 Notebook 13: 16/16
 
-Notebook 14: 
+Notebook 14: 18/18
 
 Midterm 2: 18/18
 
