@@ -41,5 +41,8 @@ Midterm 2: 18/18
 
 Notebook 15: 12/12
 
+Final : 13/13
+
+
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
 
