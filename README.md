@@ -29,7 +29,7 @@ Notebook 10:
 
 Notebook 11:18/18
 
-Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and rather written in an inefficient manner.Please,ppend some time 'cleaning' the codes for yourself!)
+Midterm 1: 12/12 ( Since the exam was protocoled and time-limited, all the codes seem to be lengthy and rather written in an inefficient manner.Please,spend some time 'cleaning' the codes for yourself!)
 
 Notebok 12: 21/21
 
