@@ -46,3 +46,6 @@ Final : 13/13
 
 All the answers are done  without any help from third parties. Please take the answers as either supplements or guides to help to get your own answers. 
 
+![image](https://user-images.githubusercontent.com/53164959/101269198-7c59da80-37af-11eb-8b15-c5735bc7ddf9.png)
+
+
